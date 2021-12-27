@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:0,SCTV ne ANTOK HIHIHIHI
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+#EXTINF:100,Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:0,Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:60,ANTV 1
+http://chostv.mobie.in/files/iptv/antv.m3u8
