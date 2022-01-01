@@ -11,7 +11,8 @@ http://chostv.mobie.in/files/iptv/antv.m3u8
 #EXTINF:31,Metro TV ki panggok e BERITA
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:0,RCTI kadang GANGGUAN tp ojo sawuri uyah YA
-https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
+#EXTINF:-1 ,RCTI HD (RCTI+)
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:0,MNC TV bien jenenge TPI
 https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
 #EXTINF:0,GTV
